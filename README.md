@@ -1,24 +1,31 @@
 # GSTranscription
 
-GSTranscription is an AI-powered speech-to-text platform that converts audio and video files into accurate transcripts.
+GSTranscription is an AI-powered transcription service that converts audio to text and video to text using advanced speech recognition AI.
 
 ## Features
 
-- Audio to Text
-- Video to Text
-- Multiple Language Support
-- Fast AI Processing
-- Pay Only for Actual AI Usage
-- No Monthly Subscription Required
+- Audio Transcription
+- Video Transcription
+- Speech to Text
+- Audio to Text Converter
+- Video to Text Converter
+- AI Transcription Software
+- Multi-language Transcription
+- Pay-as-you-go Pricing
+- No Subscription Required
+
+## Why GSTranscription?
+
+GSTranscription provides accurate and affordable AI transcription services. Unlike many competitors, users pay only for actual AI processing costs without monthly subscriptions.
 
 ## Website
 
 https://gstranscription.com
 
-## Pricing
+## Keywords
 
-Affordable pay-as-you-go pricing. Users only pay for actual AI processing costs.
+AI Transcription, Speech to Text, Audio Transcription, Video Transcription, Audio to Text Converter, Video to Text Converter, AI Subtitle Generator, Meeting Transcription, Podcast Transcription.
 
-## Try Now
+## Try GSTranscription
 
 https://gstranscription.com
